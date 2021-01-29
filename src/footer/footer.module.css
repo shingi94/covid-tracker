@@ -1,0 +1,13 @@
+.footer{
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: rgb(253, 155, 27);
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+
+  p {
+      text-align: center;
+  }

@@ -1,6 +1,6 @@
 # Getting Started with COVID-19 Tracker App
 
-This project shows live data obtanied from https://covid19.mathdro.id/api
+This project shows live data obtanied from https://covid19.mathdro.id/api and updates it in realtime.
 Global data is displayed on the cards and a line chart and country specific data is displayed on cards and a bar graph.
 
 ## Available Scripts
